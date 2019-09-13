@@ -7,9 +7,9 @@ This is a simple example of naive bayes theorem. Using this you can even develop
 function to it. 
 
 The Files are
-1. Play or not1.csv - its the clone file of the data that was present on the original file.
-2. Play or Not.csv - This file consists the data that has been used by the code and this file is not touched 
-			any kindo of editing has been done in the clone file.
+1. Play or not1.csv - its the clone file of the data that was present on the original file. Its meant for the editing part, if you want to.
+2. Play or Not.csv - This file consists the data that has been used by the code and this file is not touched, 
+			any kind of editing has not been done in this file.
 3. Playnot.py - this code of naive bayes is present in tis file it been tested of all the possible answers and it
 		has done good in those test.
 
